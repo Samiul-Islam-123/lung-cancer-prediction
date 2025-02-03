@@ -72,7 +72,3 @@ this will analyse lung_cancer_data.csv dataset for further use
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-
-## 📄 License
-
-This project is licensed under the [MIT License](https://github.com/Samiul-Islam-123/lung-cancer-prediction/blob/main/LICENSE).  (Or specify the actual license if different)
